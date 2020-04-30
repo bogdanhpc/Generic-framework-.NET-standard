@@ -1,0 +1,14 @@
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\bin\Release\netcoreapp2.2\TestApp.deps.json
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\bin\Release\netcoreapp2.2\TestApp.runtimeconfig.json
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\bin\Release\netcoreapp2.2\TestApp.runtimeconfig.dev.json
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\bin\Release\netcoreapp2.2\TestApp.dll
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\bin\Release\netcoreapp2.2\TestApp.pdb
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\bin\Release\netcoreapp2.2\Core.dll
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\bin\Release\netcoreapp2.2\Core.pdb
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\obj\Release\netcoreapp2.2\TestApp.csprojAssemblyReference.cache
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\obj\Release\netcoreapp2.2\TestApp.csproj.CoreCompileInputs.cache
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\obj\Release\netcoreapp2.2\TestApp.AssemblyInfoInputs.cache
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\obj\Release\netcoreapp2.2\TestApp.AssemblyInfo.cs
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\obj\Release\netcoreapp2.2\TestApp.csproj.CopyComplete
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\obj\Release\netcoreapp2.2\TestApp.dll
+E:\Admin\dev\MyCore\Sources\TestApp\TestApp\obj\Release\netcoreapp2.2\TestApp.pdb

@@ -1,0 +1,8 @@
+E:\Admin\dev\MyCore\Sources\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+E:\Admin\dev\MyCore\Sources\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+E:\Admin\dev\MyCore\Sources\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+E:\Admin\dev\MyCore\Sources\Core\bin\Debug\netstandard2.0\Core.deps.json
+E:\Admin\dev\MyCore\Sources\Core\bin\Debug\netstandard2.0\Core.dll
+E:\Admin\dev\MyCore\Sources\Core\bin\Debug\netstandard2.0\Core.pdb
+E:\Admin\dev\MyCore\Sources\Core\obj\Debug\netstandard2.0\Core.dll
+E:\Admin\dev\MyCore\Sources\Core\obj\Debug\netstandard2.0\Core.pdb
